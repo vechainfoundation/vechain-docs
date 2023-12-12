@@ -1,4 +1,8 @@
 ---
+description: >-
+  We have created some tutorials and guides to help developers to start their
+  journey building on the VechainThor blockchain. The purpose of the tutorials
+  is to provide the user with a step-by-step walk
 layout:
   title:
     visible: true
@@ -7,7 +11,7 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: false
 ---
